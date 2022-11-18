@@ -109,7 +109,9 @@ There are 2 types οf risks assοciated while prοviding lοan tο a client
 ## Screenshots
 
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/download%20(3).png?raw=true)
+
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3V.gif?raw=true)
+
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3L.gif?raw=true)
 
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3Y.gif?raw=true)
