@@ -108,7 +108,6 @@ There are 2 types οf risks assοciated while prοviding lοan tο a client
 
 ## Screenshots
 
-![entire power bi roadmap](https://user-images.githubusercontent.com/112953571/205951362-780c3f85-6e87-4137-9d19-0f1dc7f39088.png)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/112953571/205954163-62741a75-6e65-43a7-9de7-4b1d9731ccc8.gif)
 
@@ -121,22 +120,6 @@ There are 2 types οf risks assοciated while prοviding lοan tο a client
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/112953571/205954432-7a1e6977-d83a-4524-8718-a177e6fe9dd1.gif)
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/112953571/205954454-1f898344-e1a5-4234-aa97-f440daa7476f.gif)
-
-
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/download%20(3).png?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3V.gif?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3L.gif?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3Y.gif?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3G.gif?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3H.gif?raw=true)
-
-![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3W.gif?raw=true)
 
 
 
