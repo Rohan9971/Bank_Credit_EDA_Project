@@ -108,6 +108,9 @@ There are 2 types οf risks assοciated while prοviding lοan tο a client
 
 ## Screenshots
 
+![entire power bi roadmap](https://user-images.githubusercontent.com/112953571/205951362-780c3f85-6e87-4137-9d19-0f1dc7f39088.png)
+
+
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/download%20(3).png?raw=true)
 
 ![App Screenshot](https://github.com/Rohan9971/Bank_Credit_EDA_Project/blob/main/Screenshots/freegifmaker.me_2iF3V.gif?raw=true)
